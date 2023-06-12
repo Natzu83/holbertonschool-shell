@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -l /bin/bash
+username=$(whomai)
+echo "Effective username: $username"
