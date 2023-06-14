@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "C\C#\Javascript\Per1\PHP\ASP\R\Go\C++\Python" | ./
+sort | uniq -u
