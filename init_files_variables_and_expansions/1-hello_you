@@ -1,2 +1,2 @@
 #!/bin/bash
-alias whoiam="echo 'hello, $username!'"
+alias whoiam="hello, $username!"
