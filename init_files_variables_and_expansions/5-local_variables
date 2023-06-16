@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | env | declare -F | set -o
+ls -l | declare -F | set -o
