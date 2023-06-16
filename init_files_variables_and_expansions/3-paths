@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of occurrences of $directory in PATH: $count"
+echo $PATH
