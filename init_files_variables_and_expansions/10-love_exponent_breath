@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(expr $BREATH \^ $LOVE) | echo $result
+result=$(( BREATH=4 ** LOVE=3 )) | echo $result
