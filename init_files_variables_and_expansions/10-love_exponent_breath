@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(( 4 * 3 )) | echo $result
+echo "$((4*3))"
