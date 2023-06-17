@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(expr 4 \* 3) | export MULTIPLICATION_RESULT=$result
+echo $(( BREATH**LOVE ))
