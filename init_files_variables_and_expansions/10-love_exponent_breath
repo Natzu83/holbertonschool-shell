@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(( BREATH=4 ** LOVE=3 )) | echo $result
+result=$(( 4 * 3 )) | echo $result
